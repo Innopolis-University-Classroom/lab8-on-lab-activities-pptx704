@@ -1,4 +1,4 @@
-package com.muwaffaq.innopolis.solid.SRP.correct;;
+package com.muwaffaq.innopolis.solid.SRP.correct;
 
 import java.util.List;
 
